@@ -7,6 +7,4 @@ implementation of UndoManager in Swift5 Xcode 10.2
 
 # Demo project for the medium article 
 
-## UndoManager in Swift 5 with example
-### - Perform undo-redo actions in a more simple way
-![Perform undo-redo actions in a more simple way](https://medium.com/p/8c791e231b87)
+[UndoManager in Swift 5 with example - Perform undo-redo actions in a more simple way](https://medium.com/p/8c791e231b87)
